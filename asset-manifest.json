@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://septiantonrezki.github.io/csb-kwp1g0/static/css/main.acf51390.css",
+    "main.js": "https://septiantonrezki.github.io/csb-kwp1g0/static/js/main.6f1ed191.js",
+    "index.html": "https://septiantonrezki.github.io/csb-kwp1g0/index.html",
+    "main.acf51390.css.map": "https://septiantonrezki.github.io/csb-kwp1g0/static/css/main.acf51390.css.map",
+    "main.6f1ed191.js.map": "https://septiantonrezki.github.io/csb-kwp1g0/static/js/main.6f1ed191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf51390.css",
+    "static/js/main.6f1ed191.js"
+  ]
+}
